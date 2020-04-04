@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
 
-You can use the [editor on GitHub](https://github.com/Mariostarr/Mariostarr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Daniel Parhizgar. Here you can find information about the projects I've worked on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Super boat land
 
-### Markdown
+"Super boat land" is a game that I created together with some friends for our own custom game jam. The theme was "Islands" and the game was made in 4 days. It is a little bit messy because it contains many different concepts but we did learn a lot for future game jams.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/H7Bs3ezKs-c/0.jpg)](https://www.youtube.com/watch?v=H7Bs3ezKs-c)
 
 # Header 1
 ## Header 2
