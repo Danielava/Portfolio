@@ -6,10 +6,9 @@ Hello! I am Daniel Parhizgar. Here you can find information about the projects I
 
 "Super boat land" is a game that I created together with some friends for our own custom game jam. The theme was "Islands" and the game was made in 4 days. It is a little bit messy because it contains many different concepts but we did learn a lot for future game jams.
 
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/H7Bs3ezKs-c/0.jpg)](https://www.youtube.com/watch?v=H7Bs3ezKs-c)
 
 ```markdown
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/H7Bs3ezKs-c/0.jpg)](https://www.youtube.com/watch?v=H7Bs3ezKs-c)
 
 # Header 1
 ## Header 2
