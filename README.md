@@ -1,6 +1,6 @@
 ## Welcome to my portfolio
 
-Hello! I am Daniel Parhizgar. Here you can find information about the projects I've worked on.
+Hello! I am Daniel Parhizgar and welcome to my github page. Here you can find information about the different games I've worked on.
 
 ### Super boat land
 
