@@ -6,7 +6,7 @@ Hello and welcome to my portfolio. Here you can find information about the diffe
 
 ### Super boat land
 
-![b1](images/boat1.png){:height="200px" width="350px"} ![b2](images/boat3.png){:height="200px" width="350px"} ![b3](images/boat2.png){:height="200px" width="350px"}
+![b1](images/boat1.png){:height="200px" width="320px"} ![b2](images/boat3.png){:height="200px" width="320px"} ![b3](images/boat2.png){:height="200px" width="320px"}
 
 *Super boat land* is a game that my friends and I created as part of our own game jam. The theme was *Islands* and the game was made in 4 days. It is a little bit messy because it contains many different concepts but we did learn a lot for future game jams. You start in the middle of the ocean and from there you can explore the islands, do some fishing, or fight the secret sea monster. When exploring islands you are accompanied by your crew who helps you fight monsters. 
 This project was made in Unity.
