@@ -20,7 +20,7 @@ Video: [youtube.com/watch?v=aMqRPcewIbs](https://www.youtube.com/watch?v=aMqRPce
 
 ### Squidstone
 
-![b1](images/card1.png){:height="200px" width="350px"} ![b2](images/card2.png){:height="200px" width="350px"}
+![c1](images/card1.png){:height="200px" width="350px"} ![c2](images/card2.png){:height="200px" width="350px"}
 
 The name Squidstone is a reference to Hearthstone, as this is a card game where a dice roll decides what attacks can be performed. Each card has different attacks and a number assigned to each attack, if you roll a 4 on the dice, all attacks with number 4 beside them can be performed. So the strategy is to place cards so that a broad range of numbers are covered which raises the chance of you being able to attack. A simple game made in Java.
 
