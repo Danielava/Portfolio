@@ -47,7 +47,7 @@ Video: [youtube.com/watch?v=3fpQQhqmyhI](https://www.youtube.com/watch?v=3fpQQhq
 
 ![b1](images/beta1.png){:height="250px" width="410px"} ![b2](images/beta2.png){:height="250px" width="410px"}
 
-Beta dungeon is a cross-platform multiplayer game where one player uses a VR-headset to traverse a dungeon while the other one uses a smartphone to place enemies and activate traps. This game was part of a group project in the course *DH2413 Advanced Graphics and simulation* at KTH.
+Beta dungeon is a cross-platform multiplayer game made in Unity, where one player uses a VR-headset to traverse a dungeon while the other one uses a smartphone to place enemies and activate traps. This game was part of a group project in the course *DH2413 Advanced Graphics and simulation* at KTH.
 
 For this project, I worked on programming destructible objects, traps, a lava shader in HLSL and lastly some minor 3D modeling of an axe and a bottle.
 
