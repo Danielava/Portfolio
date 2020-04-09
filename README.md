@@ -2,7 +2,7 @@
 
 Hello! I am Daniel Parhizgar and welcome to my github page. Here you can find information about the different games I've worked on.
 
-### -------------------------------------------------------------------------------------------------------------------
+---
 
 ### Super boat land
 
@@ -12,6 +12,8 @@ This project was made in Unity.
 *Tell what you worked on*
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/H7Bs3ezKs-c/0.jpg)](https://www.youtube.com/watch?v=H7Bs3ezKs-c)
+
+***
 
 ### Squidstone
 This name is a reference to Hearthstone, as this is a card game where a dice roll decides what attacks can be performed.
