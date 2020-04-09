@@ -13,16 +13,16 @@ I worked on the fishing mechanics, enemy AI and the enemy attack effects.
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/H7Bs3ezKs-c/0.jpg)](https://www.youtube.com/watch?v=H7Bs3ezKs-c)
 
-Github page:
-Video: 
+Github page:<br>
+Video: <br>
 ***
 
 ### Squidstone
 This name is a reference to Hearthstone, as this is a card game where a dice roll decides what attacks can be performed.
 Each card has different attacks and a number assigned to each attack, if you roll a 4 on the dice, all attacks with number 4 beside them can be performed. So the strategy is to place cards so that a broad range of numbers are covered which raises the chance of you being able to attack. A simple game made in Java.
 
-Github page:
-Video:
+Github page: <br>
+Video: https://www.youtube.com/watch?v=-YRQG62rj_Q
 ***
 
 ### Tok-Tokkie
@@ -32,17 +32,17 @@ The name Tok-Tokkie is the South African name for this type of prank, where you 
 This game was made in Unity in 6 weeks.
 
 Github page:
-Project website: https://edwardlindenmap12a.wixsite.com/tok-tokkie
+Project website: https://edwardlindenmap12a.wixsite.com/tok-tokkie <br>
 Video: 
 ***
 
 ### Beta dungeon
 Beta dungeon is a cross-platform multiplayer game where one player uses a VR-headset to traverse a dungeon while the other one uses a smartphone to place enemies and activate traps. This game was part of a group project in the course *DH2413 Advanced Graphics and simulation* at KTH.
 
-Github page: 
-Project website: https://tnielsen92pro.github.io/betaThunderWebsite/
+Github page: <br>
+Project website: https://tnielsen92pro.github.io/betaThunderWebsite/ <br>
 Video: 
 ***
 
-[comment:] <> ### Action adventure game
-[comment:] <> This is a 3D action adventure game that I like working on whenever I have free time. The game concept is to [comment:] <> collect pikmins who you can then use to perform different attacks and spells with. Doing so will consume them. 
+[comment:] <> (### Action adventure game)
+[comment:] <> (This is a 3D action adventure game that I like working on whenever I have free time. The game concept is to) [comment:] <> (collect pikmins who you can then use to perform different attacks and spells with. Doing so will consume them.) 
