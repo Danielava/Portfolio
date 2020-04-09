@@ -20,7 +20,7 @@ Video: [youtube.com/watch?v=aMqRPcewIbs](https://www.youtube.com/watch?v=aMqRPce
 
 ### Squidstone
 
-![c1](images/card1.png){:height="250px" width="350px"} ![c2](images/card2.png){:height="250px" width="350px"}
+![c1](images/card1.png){:height="250px" width="400px"} ![c2](images/card2.png){:height="250px" width="400px"}
 
 The name Squidstone is a reference to Hearthstone, as this is a card game where a dice roll decides what attacks can be performed. Each card has different attacks and a number assigned to each attack, if you roll a 4 on the dice, all attacks with number 4 beside them can be performed. So the strategy is to place cards so that a broad range of numbers are covered which raises the chance of you being able to attack. A simple game made in Java.
 
@@ -30,6 +30,9 @@ Video: [youtube.com/watch?v=-YRQG62rj_Q](https://www.youtube.com/watch?v=-YRQG62
 ***
 
 ### Tok-Tokkie
+
+![t1](images/tok1.png){:height="250px" width="400px"} ![t2](images/tok2.png){:height="250px" width="400px"}
+
 This game was made in a course at KTH together with four other students. We didn't know eachother since before so this was the closest we came to experiencing how working at a gaming company would feel like.
 The objective of this game is to prank your neighbours by knocking on their doors and escape while they chase you. In the first level, the objective is to simply prank four neighbours and return to your base. In the second mission, you have to prank the pink rabbit who is really fast and harder to escape from.
 The name Tok-Tokkie is the South African name for this type of prank, where you knock on doors and run away.
