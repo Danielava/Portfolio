@@ -23,7 +23,7 @@ This name is a reference to Hearthstone, as this is a card game where a dice rol
 Each card has different attacks and a number assigned to each attack, if you roll a 4 on the dice, all attacks with number 4 beside them can be performed. So the strategy is to place cards so that a broad range of numbers are covered which raises the chance of you being able to attack. A simple game made in Java.
 
 Github page: <br>
-Video: https://www.youtube.com/watch?v=-YRQG62rj_Q
+Video: [youtube.com/watch?v=-YRQG62rj_Q](https://www.youtube.com/watch?v=-YRQG62rj_Q)
 
 ***
 
@@ -34,7 +34,7 @@ The name Tok-Tokkie is the South African name for this type of prank, where you 
 This game was made in Unity in 6 weeks.
 
 Github page:
-Project website: https://edwardlindenmap12a.wixsite.com/tok-tokkie <br>
+Project website: [edwardlindenmap12a.wixsite.com/tok-tokkie](https://edwardlindenmap12a.wixsite.com/tok-tokkie) <br>
 Video: 
 
 ***
