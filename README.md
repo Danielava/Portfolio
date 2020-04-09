@@ -15,6 +15,7 @@ I worked on the fishing mechanics, enemy AI and the enemy attack effects.
 
 Github page:<br>
 Video: <br>
+
 ***
 
 ### Squidstone
@@ -23,6 +24,7 @@ Each card has different attacks and a number assigned to each attack, if you rol
 
 Github page: <br>
 Video: https://www.youtube.com/watch?v=-YRQG62rj_Q
+
 ***
 
 ### Tok-Tokkie
@@ -34,6 +36,7 @@ This game was made in Unity in 6 weeks.
 Github page:
 Project website: https://edwardlindenmap12a.wixsite.com/tok-tokkie <br>
 Video: 
+
 ***
 
 ### Beta dungeon
@@ -42,6 +45,7 @@ Beta dungeon is a cross-platform multiplayer game where one player uses a VR-hea
 Github page: <br>
 Project website: https://tnielsen92pro.github.io/betaThunderWebsite/ <br>
 Video: 
+
 ***
 
 [comment:] <> (### Action adventure game)
