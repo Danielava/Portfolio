@@ -6,7 +6,7 @@ Hello and welcome to my portfolio. Here you can find information about the diffe
 
 ### Super boat land
 
-![b1](images/boat1.png){:height="250px" width="420px"} ![b3](images/boat2.png){:height="250px" width="420px"}
+![b1](images/boat1.png){:height="250px" width="410px"} ![b3](images/boat2.png){:height="250px" width="410px"}
 
 *Super boat land* is a game that my friends and I created as part of our own game jam. The theme was *Islands* and the game was made in 4 days. It is a little bit messy because it contains many different concepts but we did learn a lot for future game jams. You start in the middle of the ocean and from there you can explore the islands, do some fishing, or fight the secret sea monster. When exploring islands you are accompanied by your crew who helps you fight monsters. 
 This project was made in Unity.
@@ -20,7 +20,7 @@ Video: [youtube.com/watch?v=aMqRPcewIbs](https://www.youtube.com/watch?v=aMqRPce
 
 ### Squidstone
 
-![c1](images/card1.png){:height="250px" width="420px"} ![c2](images/card2.png){:height="250px" width="420px"}
+![c1](images/card1.png){:height="250px" width="410px"} ![c2](images/card2.png){:height="250px" width="410px"}
 
 The name Squidstone is a reference to Hearthstone, as this is a card game where a dice roll decides what attacks can be performed. Each card has different attacks and a number assigned to each attack, if you roll a 4 on the dice, all attacks with number 4 beside them can be performed. So the strategy is to place cards so that a broad range of numbers are covered which raises the chance of you being able to attack. A simple game made in Java.
 
@@ -31,7 +31,7 @@ Video: [youtube.com/watch?v=-YRQG62rj_Q](https://www.youtube.com/watch?v=-YRQG62
 
 ### Tok-Tokkie
 
-![t1](images/tok1.png){:height="250px" width="420px"} ![t2](images/tok2.png){:height="250px" width="420px"}
+![t1](images/tok1.png){:height="250px" width="430px"} ![t2](images/tok2.png){:height="250px" width="430px"}
 
 This game was made in a course at KTH together with four other students. We didn't know eachother since before so this was the closest we came to experiencing how working at a gaming company would feel like.
 The objective of this game is to prank your neighbours by knocking on their doors and escape while they chase you. In the first level, the objective is to simply prank four neighbours and return to your base. In the second mission, you have to prank the pink rabbit who is really fast and harder to escape from.
@@ -44,6 +44,9 @@ Video: [youtube.com/watch?v=3fpQQhqmyhI](https://www.youtube.com/watch?v=3fpQQhq
 ***
 
 ### Beta dungeon
+
+![b1](images/beta1.png){:height="250px" width="410px"} ![b2](images/beta2.png){:height="250px" width="410px"}
+
 Beta dungeon is a cross-platform multiplayer game where one player uses a VR-headset to traverse a dungeon while the other one uses a smartphone to place enemies and activate traps. This game was part of a group project in the course *DH2413 Advanced Graphics and simulation* at KTH.
 
 For this project, I worked on programming destructible objects, traps, a lava shader in HLSL and lastly some minor 3D modeling of an axe and a bottle.
